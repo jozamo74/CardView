@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MD Top</string>
+    <string name="cardview">CardView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enabled">enabled</string>
+    <string name="disable">disable</string>
+    <string name="card_title_demo">This is a title</string>
+    <string name="card_message_demo_small">This is a secondary text for a card with two lines in the message.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_text_menu">18sp</dimen>
+    <dimen name="common_padding_default">16dp</dimen>
+    <dimen name="material_card_spacing">8dp</dimen>
+    <dimen name="common_padding_none">0dp</dimen>
+    <dimen name="card_img_size">80dp</dimen>
+    <dimen name="common_padding_min">8dp</dimen>
+</resources>
